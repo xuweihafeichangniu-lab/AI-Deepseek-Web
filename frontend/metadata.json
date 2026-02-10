@@ -1,0 +1,5 @@
+{
+  "name": "SUPER AI",
+  "description": "一个集成 DeepSeek AI 决策的高级币安量化交易桌面应用，支持多周期指标采集、斐波那契自动计算及自动化下单流程。",
+  "requestFramePermissions": []
+}
